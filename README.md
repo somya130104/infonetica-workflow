@@ -103,4 +103,4 @@ GET /instances/{id}
 
 ## Author
 
-Somya Bhadada – 2025 Infonetica Internship Assignment
+Somya Bhadada 
