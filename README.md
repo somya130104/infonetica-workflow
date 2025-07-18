@@ -61,6 +61,7 @@ POST /workflows
   ]
 }
 ```
+![image alt](https://github.com/somya130104/infonetica-workflow/blob/c2909b30c42bf802cabba36de72e4f341e5caf34/Workflow%20Function.jpeg)
 
 ### Start a Workflow Instance
 
