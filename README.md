@@ -68,6 +68,7 @@ POST /workflows
 ```http
 POST /instances?workflowId=drivingCar
 ```
+![image alt](https://github.com/somya130104/infonetica-workflow/blob/36cad0366e29e76fb0352e3bcbd89fc9b8933adb/Workflow%20Action.jpeg)
 
 ### Perform an Action
 
@@ -78,7 +79,6 @@ POST /instances/{id}/actions
   "actionId": "startEngine"
 }
 ```
-![image alt](https://github.com/somya130104/infonetica-workflow/blob/36cad0366e29e76fb0352e3bcbd89fc9b8933adb/Workflow%20Action.jpeg)
 
 ### Get Instance Status
 
