@@ -78,13 +78,14 @@ POST /instances/{id}/actions
   "actionId": "startEngine"
 }
 ```
+![image alt](https://github.com/somya130104/infonetica-workflow/blob/36cad0366e29e76fb0352e3bcbd89fc9b8933adb/Workflow%20Action.jpeg)
 
 ### Get Instance Status
 
 ```http
 GET /instances/{id}
 ```
-
+![image alt](https://github.com/somya130104/infonetica-workflow/blob/36cad0366e29e76fb0352e3bcbd89fc9b8933adb/Workflow%20Summary.jpeg)
 ## Validations
 
 * A workflow must contain exactly one initial state
